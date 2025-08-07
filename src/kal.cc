@@ -75,8 +75,7 @@ int g_debug = 0;
 
 void usage(char *prog) {
 
-	printf("kalibrate v%s-rtl, Copyright (c) 2010, Joshua Lackey\n", kal_version_string);
-	printf("modified for use with rtl-sdr devices, Copyright (c) 2012, Steve Markgraf");
+	printf("Raj");
 	printf("\nUsage:\n");
 	printf("\tGSM Base Station Scan:\n");
 	printf("\t\t%s <-s band indicator> [options]\n", basename(prog));
