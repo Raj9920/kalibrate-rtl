@@ -76,6 +76,7 @@ int g_debug = 0;
 void usage(char *prog) {
 
 	printf("Raj");
+	printf("RFID");
 	printf("\nUsage:\n");
 	printf("\tGSM Base Station Scan:\n");
 	printf("\t\t%s <-s band indicator> [options]\n", basename(prog));
