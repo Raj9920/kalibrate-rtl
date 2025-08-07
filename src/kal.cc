@@ -72,10 +72,11 @@
 
 int g_verbosity = 0;
 int g_debug = 0;
+int g_debug = 0;
 
 void usage(char *prog) {
 
-	printf("Raj");
+	printf("Testing");
 	printf("RFID");
 	printf("\nUsage:\n");
 	printf("\tGSM Base Station Scan:\n");
